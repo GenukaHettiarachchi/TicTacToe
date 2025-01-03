@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="Mineral_Green">#405E54</color>
+    <color name="Mountain_Meadow">#1FB56C</color>
+
+    <color name="Mountain_Meadoww">#169576</color>
+    <color name="Juniper">#68928B</color>
+
+</resources>

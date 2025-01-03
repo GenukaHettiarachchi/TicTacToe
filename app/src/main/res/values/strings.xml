@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Tic Tac Toe</string>
+
+    <string name="topic">Tic Tac Toe</string>
+    <string name="start_btn">Start The Game</string>
+    <string name="info_btn">ⓘ</string>
+    <string name="by">Life Lessons Within Nine Movements</string>
+
+    <string name="big_box"> </string>
+    <string name="box1"> </string>
+    <string name="box2"> </string>
+    <string name="box3"> </string>
+    <string name="box4"> </string>
+    <string name="box5"> </string>
+    <string name="box6"> </string>
+    <string name="box7"> </string>
+    <string name="box8"> </string>
+    <string name="box9"> </string>
+    <string name="back_btn1">Back</string>
+
+
+    <string name="about">About Us</string>
+    <string name="about_dis">This application was created by Genuka Hettiarachci by using Kotlin. Hope you enjoy it. Thank You !</string>
+    <string name="back_btn2">Back</string>
+</resources>
